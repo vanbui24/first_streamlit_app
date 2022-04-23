@@ -5,7 +5,8 @@ import snowflake.connector
 
 from urllib.error import URLError
 
-streamlit.title('Hej, jeg hedder Bella')
+streamlit.title('Hej, jeg hedder Bella 😂😊😅')
+streamlit.header('Ian er min lillebror 😉🤣😜')
 
 
 streamlit.header('Breakfast Favorites')
